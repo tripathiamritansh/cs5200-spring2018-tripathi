@@ -1,4 +1,4 @@
-package edu.northeastern.cs5200.controllers.hello;
+package edu.northeastern.cs5200.controller.hello;
 
 public class HelloObject {
 
@@ -26,3 +26,4 @@ public class HelloObject {
 
     }
 }
+

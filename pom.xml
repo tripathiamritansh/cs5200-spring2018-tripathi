@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>cs5200-spring2018-tripathi</name>
-	<description>CS5200-Project</description>
+	<description>CS5200-project</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

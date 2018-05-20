@@ -1,4 +1,4 @@
-package edu.northeastern.cs5200.controllers.hello;
+package edu.northeastern.cs5200.controller.hello;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

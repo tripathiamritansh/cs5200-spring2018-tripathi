@@ -1,4 +1,4 @@
-package edu.northeastern.cs5200.cs5200spring2018tripathi;
+package edu.northeastern.cs5200;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
