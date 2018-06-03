@@ -5,8 +5,6 @@
 
 [Insert a static hello message](http://cs5200-spring2018-tripathi.us-east-1.elasticbeanstalk.com/api/hello/insert)       
 
-[Insert a parameterized hello message](http://cs5200-spring2018-tripathi.us-east-1.elasticbeanstalk.com/api/hello/insert/Some)
-
-[Insert a parameterized hello message](http://cs5200-spring2018-annunziato.us-west-2.elasticbeanstalk.com/api/hello/insert/Some parameterized message)
+[Insert a parameterized hello message](http://cs5200-spring2018-tripathi.us-east-1.elasticbeanstalk.com/api/hello/insert/Some%20parameterized%20message)
 
 [Retrieve all hello messages](http://cs5200-spring2018-tripathi.us-east-1.elasticbeanstalk.com/api/hello/select/all) . 
